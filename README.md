@@ -19,7 +19,7 @@
 <p dir="auto">Logging option </p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto"><pre class="notranslate">
 <code>
- You can login using both username and email
+ You can login using both username and email.go to the app\Http\Requests\Auth\LoginRequest.php and Customize as you wish
 </code>
 
 </pre><div class="zeroclipboard-container position-absolute right-0 top-0">
